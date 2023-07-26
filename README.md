@@ -6,7 +6,7 @@ The implementation repository for [NLPCC 2023 Sharedtask1](http://tcci.ccf.org.c
 We introduced GrammarGPT, an open-source LLM, to preliminary explore its potential for native Chinese grammatical error correction. The core recipe of GrammarGPT is to leverage the hybrid dataset of ChatGPT-generated and human-annotated. For grammatical errors with clues, we proposed a heuristic method to guide ChatGPT to generate ungrammatical sentences by providing those clues. For grammatical errors without clues, we collected ungrammatical sentences from publicly available websites and manually corrected them. In addition, we employed an error-invariant augmentation method to enhance the ability of the model to correct native Chinese grammatical errors.
 ![](./assets/GrammarGPT.png)
 
-# Construction of Hybird Dataset
+# Construction of Hybrid Dataset
 
 This table shows the six main types of grammatical errors made by native Chinese speakers, which can be divided into two types, e.g., with (w/) and without (w/o) clues. We can find that the incorrect sentences are fluent and in line with the habits of native Chinese. However, they do not conform to Chinese grammar, which is more difficult to correct. We utilized both ChatGPT-generated data and human-annotated data for dealing with grammatical errors with and without clues, respectively. 
 
