@@ -37,6 +37,13 @@ python generate.py
 
 # Citation
 ```
-
+@misc{fan2023grammargpt,
+      title={GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning}, 
+      author={Yaxin Fan and Feng Jiang and Peifeng Li and Haizhou Li},
+      year={2023},
+      eprint={2307.13923},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
