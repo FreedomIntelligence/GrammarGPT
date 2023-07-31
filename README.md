@@ -54,7 +54,7 @@ We are aware that our works are inspired by the following works, including but n
 - Bloom: https://huggingface.co/bigscience/bloom
 - Self-instruct: https://github.com/yizhongw/self-instruct
 - LLMZoo: https://github.com/FreedomIntelligence/LLMZoo
-- 
+
 Without these, nothing could happen in this repository.
 
 
