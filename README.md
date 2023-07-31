@@ -1,8 +1,9 @@
 # GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning
 
 # ✨ Latest News
-- [07/26/2023]: Release the [tech report](https://arxiv.org/abs/2307.13923).
 - [07/31/2023]: Release the [model weights](https://huggingface.co/FreedomIntelligence/GrammarGPT). Coming soon!
+- [07/26/2023]: Release the [tech report](https://arxiv.org/abs/2307.13923).
+
 
 # ⚡ Introduction
 
