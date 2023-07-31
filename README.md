@@ -1,7 +1,8 @@
 # GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning
 
 # ✨ Latest News
-- [07/26/2023]: Release the [tech report](https://arxiv.org/abs/2307.13923) .
+- [07/26/2023]: Release the [tech report](https://arxiv.org/abs/2307.13923).
+- [07/31/2023]: Release the [model weights](https://huggingface.co/FreedomIntelligence/GrammarGPT).
 
 # ⚡ Introduction
 
@@ -69,3 +70,9 @@ Without these, nothing could happen in this repository.
 ```
 We are from the School of Data Science, the Chinese University of Hong Kong, Shenzhen (CUHKSZ) and the Shenzhen Rsearch Institute of Big Data (SRIBD).
 The first author is the visiting student from Soochow University and welcome to our group to contribute the LLMs in the new era.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/GrammarGPT&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FreedomIntelligence/GrammarGPT&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FreedomIntelligence/GrammarGPT&type=Date" />
+</picture>
