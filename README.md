@@ -2,7 +2,7 @@
 
 # ✨ Latest News
 - [07/26/2023]: Release the [tech report](https://arxiv.org/abs/2307.13923).
-- [07/31/2023]: Release the [model weights](https://huggingface.co/FreedomIntelligence/GrammarGPT).
+- [07/31/2023]: Release the [model weights](https://huggingface.co/FreedomIntelligence/GrammarGPT). Coming soon!
 
 # ⚡ Introduction
 
@@ -20,7 +20,7 @@ We introduced GrammarGPT, an open-source LLM, to preliminary explore its potenti
 ![](./assets/GrammarGPT.png)
 
 # 📚 Construction of Hybrid Dataset
-
+-
 This table shows the six main types of grammatical errors made by native Chinese speakers, which can be divided into two types, e.g., with (w/) and without (w/o) clues. We can find that the incorrect sentences are fluent and in line with the habits of native Chinese. However, they do not conform to Chinese grammar, which is more difficult to correct. We utilized both ChatGPT-generated data and human-annotated data for dealing with grammatical errors with and without clues, respectively. 
 
 ![](./assets/ErrorTypes.jpg)
