@@ -30,7 +30,7 @@ def train(
     # model/data params
     base_model: str = "FreedomIntelligence/phoenix-inst-chat-7b",  # the only required argument
     data_path: str = "./pseudo_data/instruction.json",
-    dev_data_path: str = "",
+    dev_data_path: str = "./pseudo_data/instruction.json",
     output_dir: str = "./saved model",
     val_set_size: int =0,
     # training hyperparams
