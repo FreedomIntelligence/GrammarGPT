@@ -30,9 +30,9 @@ def train(
     # model/data params
     base_model: str = "FreedomIntelligence/phoenix-inst-chat-7b",  # the only required argument
     data_path: str = "./pseudo_data/instruction.json",
-    dev_data_path: str = "./pseudo_data/instruction.json",
+    dev_data_path: str = "./pseudo_data/nacgec_dev_instruct_zh.json",
     output_dir: str = "./saved model",
-    val_set_size: int =0,
+    val_set_size: int =500,
     # training hyperparams
     batch_size: int = 64,
     micro_batch_size: int = 8,
