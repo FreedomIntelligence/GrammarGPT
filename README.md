@@ -60,13 +60,13 @@ Without these, nothing could happen in this repository.
 
 # Citation
 ```
-@misc{fan2023grammargpt,
-      title={GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning}, 
-      author={Yaxin Fan and Feng Jiang and Peifeng Li and Haizhou Li},
-      year={2023},
-      eprint={2307.13923},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{fan2023grammargpt,
+  title={GrammarGPT: Exploring Open-Source LLMs for Native Chinese Grammatical Error Correction with Supervised Fine-Tuning},
+  author={Fan, Yaxin and Jiang, Feng and Li, Peifeng and Li, Haizhou},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={69--80},
+  year={2023},
+  organization={Springer}
 }
 ```
 We are from the School of Data Science, the Chinese University of Hong Kong, Shenzhen (CUHKSZ), and the Shenzhen Research Institute of Big Data (SRIBD).
